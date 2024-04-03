@@ -1,0 +1,3 @@
+# TESTinlämning 1
+Short Reflection Report
+Då vi inte är vana vid att jobba enligt TDD metoden tyckte jag att det blev mer komplicerat än vad det egentligen är. Att skapa testerna först när man knappt har någon aning hur metoden kommer se ut tyckte jag var väldigt svårt. Med hjälp av klasskamrater och efter att ha sett några exempel kändes det dock som att det började klicka lite och man kom in på rätt spår. Jag tror TDD metoden fungerar bra senare när man är mer säker på vad man gör och olika sätt att göra det på, men på nivån jag och de flesta av klassen ligger på nu så känns det som att det bara försvårar arbetet. 
